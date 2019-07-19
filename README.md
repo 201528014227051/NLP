@@ -3,4 +3,4 @@ some basic natural language processing processing from [使用NLP从文章中自
 
 A example for word cloud:
 
-	![](./word1.png)
+![word1](./word1.png)
